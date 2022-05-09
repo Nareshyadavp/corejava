@@ -1,0 +1,9 @@
+package com.package1;
+
+public class S {
+ 	public static void main(String[] args) {
+  s.i=1;
+ System.out.println("1");
+	}
+
+}

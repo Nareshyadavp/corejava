@@ -1,0 +1,11 @@
+package com.package1;
+
+public class Instance {
+String i;
+	public static void main(String[] args) {
+ Instance k=new Instance();
+k. i="name";
+System.out.println("nareh");
+	}
+
+}

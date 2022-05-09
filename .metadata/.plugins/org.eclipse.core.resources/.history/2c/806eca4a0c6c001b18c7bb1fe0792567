@@ -1,0 +1,31 @@
+package com.hiding;
+
+public class Test {
+  int i;
+  String name;
+
+	public int getI() {
+	return i;
+}
+
+public void setI(int i) {
+	this.i = i;
+}
+
+public String getName() {
+	return name;
+}
+
+public void setName(String name) {
+	this.name = name;
+}
+
+	public static void main(String[] args) {
+ Test t=new Test();
+ t.setI(1);
+ t.setName("naresh");
+ System.out.println(t.getI());
+ System.out.println(t.getName());
+	}
+
+}

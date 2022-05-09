@@ -1,0 +1,13 @@
+package com.hiding;
+
+public class Test {
+   int rollno;
+String name;
+int age;
+	public static void main(String[] args) {
+ Test t=new Test();
+ t.rollno=1;
+ t.name="naresh";
+ t.age=21;
+ System.out.println(t.rollno);
+	}

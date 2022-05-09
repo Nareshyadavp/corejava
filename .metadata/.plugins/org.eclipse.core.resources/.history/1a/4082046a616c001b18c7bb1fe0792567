@@ -1,0 +1,9 @@
+package com.package1;
+
+public class S {
+ 	public static void main(String[] args) {
+ 		 Localvariable l=new Localvariable();
+ System.out.println("1");
+	}
+
+}

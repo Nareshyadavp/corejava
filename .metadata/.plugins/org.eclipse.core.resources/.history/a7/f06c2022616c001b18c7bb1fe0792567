@@ -1,0 +1,11 @@
+package com.package1;
+
+public class S {
+static int  i;
+	public static void main(String[] args) {
+ S s=new S();
+ s.i=1;
+ System.out.println("1");
+	}
+
+}

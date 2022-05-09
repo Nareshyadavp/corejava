@@ -1,0 +1,24 @@
+package com.enh1;
+class P{
+	float   salary =2000;
+	
+}
+class   extends P{
+	
+	int  bouns=1000;
+}
+public class Test {
+
+	public static void main(String[] args) {
+	
+		C c=new C();
+		 System.out.printl
+		 
+		 
+narasimhulu,p,l,		 
+				 
+				 
+				 " +(c.salary+c.bouns);
+
+}
+}

@@ -1,0 +1,11 @@
+package com.package1;
+
+public class Instance {
+int i;
+	public static void main(String[] args) {
+ Instance k=new Instance();
+k. i=10;
+System.out.println(10);
+	}
+
+}

@@ -1,0 +1,11 @@
+package com.package1;
+
+public class Localvariable {
+
+	public static void main(String[] args) {
+ int i=10;
+ Localvariable l=new Localvariable();
+ System.out.println(i);
+	}
+
+}

@@ -1,0 +1,9 @@
+package com.package1;
+
+public class Static {
+Static Srting name;
+	public static void main(String[] args) {
+ 
+	}
+
+}
